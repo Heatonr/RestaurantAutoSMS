@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="java">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../tika-xps-ea317388c435586d961f6241ce4fae264f7cfd78/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../tika-xps-ea317388c435586d961f6241ce4fae264f7cfd78/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
