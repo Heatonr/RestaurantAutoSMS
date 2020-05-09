@@ -11,8 +11,8 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="RestaurantAutoSMS" target="1.14" />
-      <module name="tika-xps" target="1.14" />
+      <module name="RestaurantAutoSMS" target="1.11" />
+      <module name="tika-xps" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

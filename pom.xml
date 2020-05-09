@@ -9,8 +9,8 @@
     <version>1.0-SNAPSHOT</version>
 
     <properties>
-        <maven.compiler.source>1.14</maven.compiler.source>
-        <maven.compiler.target>1.14</maven.compiler.target>
+        <maven.compiler.source>1.11</maven.compiler.source>
+        <maven.compiler.target>1.11</maven.compiler.target>
     </properties>
 
 
@@ -42,10 +42,14 @@
             <version>1.24.1</version>
         </dependency>
         <dependency>
-            <groupId>tika-xps</groupId>
-            <artifactId>tika-xps</artifactId>
-            <version>1.0.0</version>
-            <scope>compile</scope>
+            <groupId>javax.xml.bind</groupId>
+            <artifactId>jaxb-api</artifactId>
+            <version>2.3.0</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.commons</groupId>
+            <artifactId>commons-compress</artifactId>
+            <version>1.4.1</version>
         </dependency>
     </dependencies>
 </project>

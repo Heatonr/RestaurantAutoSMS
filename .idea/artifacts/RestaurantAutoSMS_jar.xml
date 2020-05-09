@@ -1,0 +1,42 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RestaurantAutoSMS:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RestaurantAutoSMS_jar</output-path>
+    <root id="archive" name="RestaurantAutoSMS.jar">
+      <element id="module-output" name="RestaurantAutoSMS" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/javax/xml/bind/jaxb-api/2.3.0/jaxb-api-2.3.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/javax/activation/activation/1.1.1/activation-1.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-controls/11/javafx-controls-11.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/11/javafx-graphics-11.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-fxml/11/javafx-fxml-11-linux.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-base/11/javafx-base-11.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-controls/11/javafx-controls-11-linux.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-fxml/11/javafx-fxml-11.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-base/11/javafx-base-11-linux.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/commons/commons-compress/1.4.1/commons-compress-1.4.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/tika/tika-core/1.24.1/tika-core-1.24.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/sun/mail/javax.mail/1.6.2/javax.mail-1.6.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/11/javafx-graphics-11-linux.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/tukaani/xz/1.0/xz-1.0.jar" path-in-jar="/" />
+      <element id="file-copy" path="$USER_HOME$/.java/javafx/javafx-sdk-11.0.2/lib/libavplugin-54.so" />
+      <element id="file-copy" path="$USER_HOME$/.java/javafx/javafx-sdk-11.0.2/lib/libavplugin-56.so" />
+      <element id="file-copy" path="$USER_HOME$/.java/javafx/javafx-sdk-11.0.2/lib/libavplugin-57.so" />
+      <element id="file-copy" path="$USER_HOME$/.java/javafx/javafx-sdk-11.0.2/lib/libavplugin-ffmpeg-56.so" />
+      <element id="file-copy" path="$USER_HOME$/.java/javafx/javafx-sdk-11.0.2/lib/libavplugin-ffmpeg-57.so" />
+      <element id="file-copy" path="$USER_HOME$/.java/javafx/javafx-sdk-11.0.2/lib/libdecora_sse.so" />
+      <element id="file-copy" path="$USER_HOME$/.java/javafx/javafx-sdk-11.0.2/lib/libfxplugins.so" />
+      <element id="file-copy" path="$USER_HOME$/.java/javafx/javafx-sdk-11.0.2/lib/libglass.so" />
+      <element id="file-copy" path="$USER_HOME$/.java/javafx/javafx-sdk-11.0.2/lib/libglassgtk2.so" />
+      <element id="file-copy" path="$USER_HOME$/.java/javafx/javafx-sdk-11.0.2/lib/libglassgtk3.so" />
+      <element id="file-copy" path="$USER_HOME$/.java/javafx/javafx-sdk-11.0.2/lib/libgstreamer-lite.so" />
+      <element id="file-copy" path="$USER_HOME$/.java/javafx/javafx-sdk-11.0.2/lib/libjavafx_font.so" />
+      <element id="file-copy" path="$USER_HOME$/.java/javafx/javafx-sdk-11.0.2/lib/libjavafx_font_freetype.so" />
+      <element id="file-copy" path="$USER_HOME$/.java/javafx/javafx-sdk-11.0.2/lib/libjavafx_font_pango.so" />
+      <element id="file-copy" path="$USER_HOME$/.java/javafx/javafx-sdk-11.0.2/lib/libjavafx_iio.so" />
+      <element id="file-copy" path="$USER_HOME$/.java/javafx/javafx-sdk-11.0.2/lib/libjfxmedia.so" />
+      <element id="file-copy" path="$USER_HOME$/.java/javafx/javafx-sdk-11.0.2/lib/libjfxwebkit.so" />
+      <element id="file-copy" path="$USER_HOME$/.java/javafx/javafx-sdk-11.0.2/lib/libprism_common.so" />
+      <element id="file-copy" path="$USER_HOME$/.java/javafx/javafx-sdk-11.0.2/lib/libprism_es2.so" />
+      <element id="file-copy" path="$USER_HOME$/.java/javafx/javafx-sdk-11.0.2/lib/libprism_sw.so" />
+    </root>
+  </artifact>
+</component>

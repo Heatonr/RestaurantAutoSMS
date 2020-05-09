@@ -1,5 +1,4 @@
 package com.heatonr.RestaurantAutoSMS;
-import com.mydlp.tikaxps.XPSParser;
 import javafx.application.Platform;
 import org.apache.tika.metadata.Metadata;
 import org.apache.tika.parser.ParseContext;
